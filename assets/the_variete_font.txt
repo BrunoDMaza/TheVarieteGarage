@@ -1,0 +1,36 @@
+/* CSS HEX */
+--aqua-forest: #63a788;
+--winter-hazel: #d9cf95;
+--swamp-green: #9ab78a;
+--amulet: #7fa77e;
+--asparagus: #7f9862;
+--silver-tree: #73bc9b;
+--gimblet: #b8b074;
+--vista-blue: #84ccac;
+--de-york: #7cc4a4;
+
+
+/* SCSS HEX */
+$aqua-forest: #63a788;
+$winter-hazel: #d9cf95;
+$swamp-green: #9ab78a;
+$amulet: #7fa77e;
+$asparagus: #7f9862;
+$silver-tree: #73bc9b;
+$gimblet: #b8b074;
+$vista-blue: #84ccac;
+$de-york: #7cc4a4;
+
+
+/* SCSS RGB */
+--aqua-forest: rgba(99,167,136,1);
+--winter-hazel: rgba(217,207,149,1);
+--swamp-green: rgba(154,183,138,1);
+--amulet: rgba(127,167,126,1);
+--asparagus: rgba(127,152,98,1);
+--silver-tree: rgba(115,188,155,1);
+--gimblet: rgba(184,176,116,1);
+--vista-blue: rgba(132,204,172,1);
+--de-york: rgba(124,196,164,1);
+
+
