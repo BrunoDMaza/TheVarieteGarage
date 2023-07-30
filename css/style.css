@@ -74,3 +74,15 @@ h4 {
   font-size: 18px;
   color: #d9cf95;
 }
+
+.eliminarProducto {
+  cursor: pointer;
+}
+
+.modalButton {
+  cursor: pointer;
+}
+
+.verCarrito {
+  cursor: pointer;
+}
